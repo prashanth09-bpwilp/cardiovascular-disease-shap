@@ -25,8 +25,6 @@ The architecture is designed for a distributed Hadoop/Spark environment, decoupl
 ## 📂 Repository Structure
 
 ```text
-├── notebooks/
-│   └── Code_for_Dissertation_Final.ipynb  # Original EDA and prototyping notebook
 ├── src/
 │   ├── 1_ingestion_etl.py                 # Data cleaning and imputation
 │   ├── 2_feature_engineering.py           # Deriving clinical features
