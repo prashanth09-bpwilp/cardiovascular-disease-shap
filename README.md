@@ -30,7 +30,5 @@ The architecture is designed for a distributed Hadoop/Spark environment, decoupl
 │   ├── 2_feature_engineering.py           # Deriving clinical features
 │   ├── 3_model_training.py                # Model training and saving to disk
 │   ├── 4_batch_scoring.py                 # Generating predictions on unseen data
-│   └── 5_realtime_api.py                  # FastAPI endpoint for live inference
-├── requirements.txt                       # Python dependencies
-├── .gitignore                             
+├── requirements.txt                       # Python dependencies                             
 └── README.md
